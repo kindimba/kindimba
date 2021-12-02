@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kindimba
-- 👀 I’m interested in security,development (developer) and networking
+- 👀 I’m interested in security,development (developer),data science and networking
 - 🌱 I’m currently learning bacherol of computer science
 - 💞️ I’m looking to collaborate on security issues, networking issues and development
 - 📫 How to reach me contact me through and email kindimbaspecial2021@gmail.com
